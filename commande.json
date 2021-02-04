@@ -1,0 +1,82 @@
+{
+    "num": [405560003],
+    "dateCommande": [
+        {
+            "jour": 1,
+            "mois": "mai",
+            "annee": 2019
+        }
+    ],
+    "dateExp": [
+        {
+            "jour": 3,
+            "mois": "mai",
+            "annee": 2019
+        }
+    ],
+    "article": [
+        {
+            "titre": "L'INCROYABLE Pistolet Laser",
+            "prix": 210,
+            "tailleX": 25,
+            "tailleY": 10,
+            "qte": 2,
+            "url": "gun.png",
+            "alt": "pistolet laser"
+        },
+        {
+            "titre": "L'INCROYABLE Sabre Laser",
+            "prix": 750,
+            "tailleX": 60,
+            "tailleY": 2,
+            "qte": 1,
+            "url": "sabreLaser.jpg",
+            "alt": "Sabre Laser"
+        },
+        {
+            "titre": "L'INCROYABLE Paire de Lunette",
+            "prix": 150,
+            "tailleX": 15,
+            "tailleY": 6,
+            "qte": 1,
+            "url": "lunette.jpg",
+            "alt": "lunettes futuristes"
+        }
+    ],
+    "adresseCollecte": [
+        {
+            "lieu": "POINT RELAIS",
+            "numRue": 57,
+            "rue": "rue Jean Pierre Timbaud",
+            "ville": "PARIS",
+            "codePostal": 75011,
+            "pays": "France"
+        }
+    ],
+    "coordonnees": [
+        {
+            "prenom": "Toto",
+            "tel": 95845496456,
+            "nom": "Tartampion"
+        }
+    ],
+    "dateLivraison": [
+        {
+            "jourSemaine": "jeudi",
+            "jour": 9,
+            "mois": "mai",
+            "annee": 2019
+        }
+    ],
+    "modeLivraison": [
+        {
+            "mode": "livraison standard en point relais"
+        }
+    ],
+    "prixLivraison": {
+        "prix": 0
+    },
+    "modePaiement": {
+        "mode": "VISA"
+    }
+}
